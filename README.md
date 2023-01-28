@@ -6,3 +6,5 @@ Una de las prácticas de desarrollo de sitio para un restaurante.
 y la versión para movil.
 
 ![CafeTequila Movil](https://user-images.githubusercontent.com/51276791/213076714-ebdd28d4-26da-473f-b4b4-3a4b8a8908dd.png)
+
+Los esperamos.
